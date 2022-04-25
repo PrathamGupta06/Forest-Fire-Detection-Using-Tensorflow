@@ -1,7 +1,7 @@
 # Forest Fire Detection Using Tensorflow  
 The project aims to detect forest fire by using a TensorFlow model that is trained on the images.  
 
-Download the source code from Releases  
+Download the `source_code.zip` from [Releases](https://github.com/PrathamGupta06/Forest-Fire-Detection-Using-Tensorflow/releases/tag/v1.0.0)  
 
 Extract the folder  
 
