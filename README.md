@@ -20,7 +20,7 @@ The notebook is commented properly for the further instructions.
 ## To train the model manually:  
 
 Open jupyter notebook.  
-Open `model_training_and_saving.ipynbb` for the testing data.  
+Open `model_training_and_saving.ipynb` for the testing data.  
 The notebook is commented properly for the further instructions.  
 
 Please open a new issue if you face any difficulty.  
